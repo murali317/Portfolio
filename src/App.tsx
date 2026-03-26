@@ -160,7 +160,6 @@ function App() {
           <span style={{ color: "var(--accent-blue)", fontWeight: 600 }}>
             Muralikrishna Devarakonda
           </span>{" "}
-          · React + TypeScript + Framer Motion
         </p>
       </footer>
     </div>
