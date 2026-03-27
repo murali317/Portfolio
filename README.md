@@ -135,7 +135,7 @@ Every `git push` triggers an automatic redeploy.
 
 <div align="center">
 
-Built with ❤️ by **Muralikrishna Devarakonda** &nbsp;·&nbsp; React + TypeScript + Framer Motion
+Built with ❤️ by **Muralikrishna Devarakonda** &nbsp;·&nbsp; React + TypeScript
 
 _"Always Do The Right Karma 💛"_
 
