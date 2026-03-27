@@ -8,7 +8,6 @@
 [![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite)](https://vite.dev)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
 
 </div>
 
@@ -46,7 +45,6 @@ A **modern, production-grade personal portfolio** built from scratch — no temp
 ```
 Frontend        React 19 · TypeScript · JSX
 Build Tool      Vite 8 (Rolldown)
-Styling         Tailwind CSS 4 · CSS Custom Properties (theming)
 Animation       Framer Motion 12
 Icons           Lucide React · Custom inline SVGs (brand icons)
 Forms           Formspree (serverless, no backend needed)
@@ -135,7 +133,7 @@ Every `git push` triggers an automatic redeploy.
 
 <div align="center">
 
-Built with ❤️ by **Muralikrishna Devarakonda** &nbsp;·&nbsp; React + TypeScript
+Built with ❤️ by **Muralikrishna Devarakonda** &nbsp;·&nbsp; React + TypeScript + Claude code
 
 _"Always Do The Right Karma 💛"_
 
