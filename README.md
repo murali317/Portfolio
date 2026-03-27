@@ -4,7 +4,7 @@
 
 ### _Crafted with React · TypeScript · Framer Motion_
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Portfolio-63b3ed?style=for-the-badge)](https://github.com/murali317/Portfolio)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Portfolio-63b3ed?style=for-the-badge)](https://krissh-portfolio.netlify.app/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite)](https://vite.dev)
