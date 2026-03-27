@@ -23,7 +23,7 @@ export const skills: Skill[] = [
   { name: 'Git',                  icon: '🔀', category: 'tools',     level: 85, color: '#f05032' },
   { name: 'GitHub',               icon: '🐙', category: 'tools',     level: 88, color: '#aaaaaa' },
   { name: 'GitHub Copilot',       icon: '🤖', category: 'tools',     level: 80, color: '#6e40c9' },
-  { name: 'Claude Code',          icon: '🧬', category: 'tools',     level: 78, color: '#d97706' },
+  { name: 'Claude Code',          icon: '🧬', category: 'tools',     level: 90, color: '#d97706' },
   { name: 'Storybook',            icon: '📖', category: 'tools',     level: 68, color: '#ff4785' },
   { name: 'React Testing Lib',    icon: '🧪', category: 'tools',     level: 70, color: '#e33332' },
   // Concepts
